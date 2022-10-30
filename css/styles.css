@@ -50,12 +50,12 @@ margin: 100px 0;
 }
 .top-cloud{
   position: absolute;
-   right: 100px;
+   right: 800px;
    top: 50px;
 }
 .bottom-cloud{
   position: absolute;
-  left: 100px;
+  left: 700px;
   bottom: 350px;
 }
 .footer-link{
