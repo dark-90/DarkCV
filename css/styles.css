@@ -54,9 +54,9 @@ margin: 100px 0;
    top: 50px;
 }
 .bottom-cloud{
-  position: absolute;
-  left: 700px;
-  bottom: 350px;
+   position: absolute;
+   left: 800px;
+   top: 50px;
 }
 .footer-link{
   color: #11999E;
